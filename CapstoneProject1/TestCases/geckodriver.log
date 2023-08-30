@@ -1,0 +1,329 @@
+1693392276401	geckodriver	INFO	Listening on 127.0.0.1:59204
+1693392279449	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evanc\\AppData\\Local\\Temp\\rust_mozprofileXC3qsa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693392279902	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693392280060	Marionette	INFO	Listening on port 59213
+WebDriver BiDi listening on ws://127.0.0.1:59205
+Read port: 59213
+1693392280377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59205/devtools/browser/35500b4c-a489-4028-a9a8-4908b5e7143c
+[Parent 13628, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9572, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1693392300532	Marionette	INFO	Stopped listening on port 59213
+Dynamically enable window occlusion 1
+[Parent 13628, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9572, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13628, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9572, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13628, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9572, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13628, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9572, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13628, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9572, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693392372269	geckodriver	INFO	Listening on 127.0.0.1:59321
+1693392375322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59322" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evanc\\AppData\\Local\\Temp\\rust_mozprofile6wBZSf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693392375788	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693392375946	Marionette	INFO	Listening on port 59330
+WebDriver BiDi listening on ws://127.0.0.1:59322
+Read port: 59330
+1693392376238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59322/devtools/browser/62f6bc6c-42f5-4bb4-8ea6-623fc69d433f
+[Parent 7812, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14860, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1693392447697	Marionette	INFO	Stopped listening on port 59330
+JavaScript warning: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449, line 115: Script terminated by timeout at:
+Ja@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:171978
+k@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:171123
+s@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:171245
+i@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:172231
+d@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:172389
+h@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:172422
+
+Dynamically enable window occlusion 1
+[Parent 7812, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14860, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7812, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14860, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7812, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14860, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7812, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14860, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 7812, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 14860, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693392793825	geckodriver	INFO	Listening on 127.0.0.1:59645
+1693392796892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59646" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evanc\\AppData\\Local\\Temp\\rust_mozprofileokZict"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693392797383	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693392797542	Marionette	INFO	Listening on port 59658
+WebDriver BiDi listening on ws://127.0.0.1:59646
+Read port: 59658
+1693392797760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59646/devtools/browser/873c1f1c-bf10-4034-92e7-98b56c028f83
+[Parent 12904, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7904, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693392808726	Marionette	INFO	Stopped listening on port 59658
+JavaScript warning: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449, line 115: Script terminated by timeout at:
+x@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144996
+w@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144719
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144150
+S@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:145609
+x@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144900
+w@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144719
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144150
+a@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148288
+run@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:101371
+821/Si/B/e.update@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148552
+B@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148578
+D@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:147430
+P@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:147228
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144175
+S@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:145609
+O@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:146975
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144112
+S@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:145609
+x@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144900
+w@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144719
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144150
+S@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:145609
+O@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:146975
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144112
+a@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148288
+run@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:101371
+821/Si/B/e.update@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148552
+B@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148578
+D@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:147430
+P@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:147228
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144175
+S@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:145609
+x@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144900
+w@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144719
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144150
+S@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:145609
+x@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144900
+w@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144719
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144150
+S@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:145609
+x@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144900
+w@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144719
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144150
+a@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148288
+run@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:101371
+821/Si/B/e.update@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148552
+B@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148578
+D@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:147430
+P@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:147228
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144175
+S@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:145609
+x@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144900
+w@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144719
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144150
+S@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:145609
+x@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144900
+w@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144719
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144150
+a@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148288
+run@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:101371
+821/Si/B/e.update@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148552
+B@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148578
+D@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:147430
+P@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:147228
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144175
+S@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:145609
+O@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:146975
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144112
+a@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148288
+run@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:101371
+821/Si/B/e.update@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148552
+B@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148578
+D@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:147430
+P@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:147228
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144175
+S@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:145609
+O@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:146975
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144112
+a@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148288
+run@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:101371
+821/Si/B/e.update@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148552
+B@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:148578
+D@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:147430
+P@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:147228
+m@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:144175
+q@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:152178
+mount@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:139695
+821/Hl/t.mount@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:179614
+3070/<@https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?v=1689053487449:1:1478857
+
+Dynamically enable window occlusion 1
+[Parent 12904, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7904, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12904, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7904, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12904, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7904, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12904, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7904, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 12904, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 7904, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693392829090	geckodriver	INFO	Listening on 127.0.0.1:59723
+1693392832129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59724" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evanc\\AppData\\Local\\Temp\\rust_mozprofilebypaUY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693392832622	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693392832788	Marionette	INFO	Listening on port 59732
+WebDriver BiDi listening on ws://127.0.0.1:59724
+Read port: 59732
+1693392833015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59724/devtools/browser/882e309a-2ad2-439c-8fcf-48b19bee3f10
+[Parent 16348, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22420, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1693392848033	Marionette	INFO	Stopped listening on port 59732
+Dynamically enable window occlusion 1
+[Parent 16348, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22420, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16348, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22420, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16348, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22420, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16348, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22420, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 16348, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 22420, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693393102929	geckodriver	INFO	Listening on 127.0.0.1:59936
+1693393105988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evanc\\AppData\\Local\\Temp\\rust_mozprofile3lpTvt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693393106308	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693393106407	Marionette	INFO	Listening on port 59945
+WebDriver BiDi listening on ws://127.0.0.1:59937
+Read port: 59945
+1693393106598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59937/devtools/browser/6fefce5e-acdc-4d8c-992d-07de14eca5f4
+[Parent 23308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20672, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1693393123721	Marionette	INFO	Stopped listening on port 59945
+Dynamically enable window occlusion 1
+[Parent 23308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20672, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 23308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20672, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 23308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20672, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 23308, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 20672, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693393286755	geckodriver	INFO	Listening on 127.0.0.1:60130
+1693393289839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evanc\\AppData\\Local\\Temp\\rust_mozprofile6rjN8V"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693393290328	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693393290495	Marionette	INFO	Listening on port 60140
+WebDriver BiDi listening on ws://127.0.0.1:60131
+Read port: 60140
+1693393290800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60131/devtools/browser/0f5153d2-84d8-4702-a4eb-3b6d2202e92e
+[Parent 6480, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693393304972	Marionette	INFO	Stopped listening on port 60140
+JavaScript warning: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449, line 128: Script terminated by timeout at:
+get options@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:128:83657
+tn@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:128:81364
+5668/_notify/<@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:128:195
+_notify@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:128:182
+5668/_update/<@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:128:712
+_update@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:128:479
+5668/_refresh/this._request<@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:128:372
+
+Dynamically enable window occlusion 1
+[Parent 6480, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6480, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6480, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6480, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 9924, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693393344776	geckodriver	INFO	Listening on 127.0.0.1:60209
+1693393347835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60210" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evanc\\AppData\\Local\\Temp\\rust_mozprofilebY4Fck"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693393348188	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693393348291	Marionette	INFO	Listening on port 60219
+WebDriver BiDi listening on ws://127.0.0.1:60210
+Read port: 60219
+1693393348436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60210/devtools/browser/10bbf519-0270-426b-9e5d-5de5ca7db6ca
+[Parent 21944, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3640, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1693393369864	Marionette	INFO	Stopped listening on port 60219
+Dynamically enable window occlusion 1
+[Parent 21944, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3640, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21944, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3640, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21944, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3640, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21944, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3640, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 21944, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3640, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443

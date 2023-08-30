@@ -1,0 +1,12 @@
+# Config
+
+username : "Admin"
+password : "admin123"
+firstname : "Evanchalin"
+lastname : "C K"
+dob : "1994-03-28"
+license_no: "1234 5678 9012"
+license_exp_date : "2023-12-31"
+id : "6061"
+join_date : "2023-07-01"
+
